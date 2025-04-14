@@ -1,4 +1,6 @@
-## Hi I'm Amanda 👋
+## Hi I'm Amanda ✨🌸
+![LegendOfHeiHeiCatGIF](https://github.com/user-attachments/assets/ee41d285-ee7a-4255-9c66-845c6220f305)
+
 
  
 - 🔭 I’m currently working on my last semester of my CS degree from Clarkson University
