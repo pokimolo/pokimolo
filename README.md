@@ -1,7 +1,7 @@
-## Hi I'm Amanda ✨🌸
+## Hi, I'm Amanda ✨🌸
 ![LegendOfHeiHeiCatGIF](https://github.com/user-attachments/assets/ee41d285-ee7a-4255-9c66-845c6220f305)
 
-_I have a knack for bringing personal flair to websites and profiles through front-end development._
+_I have a knack for bringing personal flair to websites and profiles through front-end development. I also enjoy fixing and bringing life back to older tech._
 
  
 - 🔭 I’m currently working on my last semester of my CS degree from Clarkson University (Spring 2025 Grad)
